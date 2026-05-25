@@ -41,5 +41,5 @@ This mod makes the TH8A shifting experience far more realistic.
 ##### 10. Tighten the zip ties, then cut off the excess length.
 <img src="Installation Guide Images/10.png" width="400">
 
-##### 11. Reassemble the shifter housing (cover, gate, lever, and mounting clamp). The installation is complete.
+##### 11. Reassemble the shifter's housing, gate, lever, and mounting clamp. The installation is complete.
 <img src="Installation Guide Images/11.png" width="400"> 
